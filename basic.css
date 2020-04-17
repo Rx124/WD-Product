@@ -1,0 +1,35 @@
+h1,h2,h3,p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, sans-serif;
+    text-align: center;
+}
+
+.jb-disp{
+    font-family: 'Gill Sans-Bold', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.nav-bg-clr{
+    position: fixed;
+    top: 0px;
+    width: 100%;
+    z-index: 1;
+    background-color: #000000;
+    padding: 0 3%;
+}
+.nav-logo{
+    position: relative;
+    left: 1.5rem;
+    width: 2.5rem;
+}
+
+.head1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.container-fluid{
+    padding : 7% 15%;
+    color: #222831;
+}
+ .card-img{
+     width: 50%;
+     border-radius: 10%;
+     margin-top: 2%;
+ }
